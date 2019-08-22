@@ -6,8 +6,6 @@ renderToDom (interestHTML) {
     mainContainer.innerHTML += interestHTML
 },
 
-
-
 }
 
 export default DOMRep
